@@ -1,5 +1,5 @@
 function repHashTag(symbol, repeat){
-    for(let i = 1; i <  repeat; i++){
+    for(let i = 0; i <  repeat; i++){
         console.log(symbol.repeat(i));
     }
 }
